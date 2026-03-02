@@ -15,11 +15,4 @@ I focus on how intelligent systems reduce cognitive load and support human judgm
 
 ---
 
-## Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/lesliejohnsonn/)
-<!--- 📝 [Portfolio in progress]-->
-- 📧 [Email](lesliejohnson.me@gmail.com)
-
----
-
 *Enterprise AI Systems Designer building intelligent workflows that amplify human judgment.*
