@@ -1,4 +1,4 @@
-# Hi, I'm Leslie 👾
+# Hi, I'm Leslie 🥕🦗
 
 ## What I Build
 AI-enabled workflow systems that help people make better decisions in complex, high-stakes environments.
