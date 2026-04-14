@@ -1,18 +1,24 @@
-# Hi, I'm Leslie 🥕🪷
+# Leslie Johnson
+
+I design AI systems for high-stakes human moments — clinical research, 
+financial decisions, coaching relationships, and the spaces in between.
+
+My background spans HCI (Carnegie Mellon), applied neuroscience, 
+behavioral science, and hands-on AI development. I don't just design 
+the interface. I design the relationship between humans and the systems 
+built to serve them.
 
 ## What I Build
-AI-enabled workflow systems that help people make better decisions in complex, high-stakes environments.
 
-I focus on how intelligent systems reduce cognitive load and support human judgment in real-world products.
+- **Agentic pipelines** with deliberate human-in-loop checkpoints
+- **Conversational AI** with behavioral guardrails and memory architecture
+- **Research and clinical infrastructure** that earns trust operationally
+- **Workflow systems** that reduce cognitive load at the moment it matters most
 
----
+## Stack
 
-## What I'm Working On
+Python · FastAPI · React · Next.js · Claude API · RAG pipelines · n8n · Supabase
 
-- **Paloma 🤔**  An AI session intelligence system that captures live dialogue and transforms it into structured decision-support insights.
-- Exploring AI-first workflow design, agent collaboration patterns, and intelligent automation in complex systems.
-- Building systems that integrate automation and human judgment at enterprise scale.
+## Portfolio
 
----
-
-*Enterprise AI Systems Designer building intelligent workflows that amplify human judgment.*
+lesliejohnson.io
