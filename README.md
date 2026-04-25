@@ -21,4 +21,4 @@ Python · FastAPI · React · Next.js · Claude API · RAG pipelines · n8n · S
 
 ## Portfolio
 
-lesliejohnson.io
+[lesliejohnson.io](https://lesliejohnson.io)
