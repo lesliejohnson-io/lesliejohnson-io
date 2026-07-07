@@ -17,7 +17,7 @@ built to serve them.
 
 ## Stack
 
-Python · FastAPI · React · Next.js · Claude API · RAG pipelines · n8n · Supabase
+Python · FastAPI · React · Next.js · Claude API · RAG · n8n · Supabase
 
 ## Portfolio
 
