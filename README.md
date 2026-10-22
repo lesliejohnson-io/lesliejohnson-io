@@ -1,6 +1,6 @@
 # Leslie Johnson
 
-I design the human side of autonomy: interfaces that let people read, trust, and act on what intelligent machines are doing. My work spans enterprise software, robotics, and physical AI.
+Designer for the trust layer between people and autonomous systems. I design, build, and ship it.
 
 My background combines human-computer interaction at Carnegie Mellon, behavioral science, and coaching, with hands-on AI development. I don't just design the interface. I design the relationship between people and the systems built to serve them.
 
