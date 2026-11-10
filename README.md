@@ -15,7 +15,7 @@ My focus is **calibrated trust**: people relying on a system exactly as much as 
 
 ### Currently
 
-**[Calibrate](link)**: open-source patterns for knowing when to trust the machine, and when to take over.
+**[Calibrate](https://calibrate.lesliejohnson.io/)**: open-source patterns for knowing when to trust the machine, and when to take over.
 
 ### Stack
 
