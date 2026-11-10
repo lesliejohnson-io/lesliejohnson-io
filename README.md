@@ -15,7 +15,7 @@ My focus is **calibrated trust**: people relying on a system exactly as much as 
 
 ### Currently
 
-**[Calibrate](link)**: an open library of design patterns for human–machine trust
+**[Calibrate](link)**: open-source patterns for knowing when to trust the machine, and when to take over.
 
 ### Stack
 
