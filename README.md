@@ -2,7 +2,7 @@
 
 I design interfaces that help people know when to trust autonomous systems and when to step in. I design them, build them, and ship them.
 
-My background combines human-computer interaction at Carnegie Mellon, behavioral science, and coaching, with hands-on AI development. I don't just design the interface. I design the relationship between people and the systems built to serve them.
+My background combines human-computer interaction at Carnegie Mellon, behavioral science, and field research, with hands-on AI development. I don't just design the interface. I design the relationship between people and the systems built to serve them.
 
 My focus is **calibrated trust**: people relying on a system exactly as much as its real capability warrants, no more and no less.
 
